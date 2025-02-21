@@ -1,7 +1,3 @@
-print(r'''*******************************************************************************
-⠀⠀⠀⠀⠀⠀⠀⠀
-*******************************************************************************
-''')
 print("DARK SOULS. PREPARE TO SUFFER EDITION")
 print("Oh the hollow one.")
 print("You're at a cross road, which way do you want to go?")
